@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\GitHub\c-sharp-notes\basics-1\basics-1\bin\Debug\basics-1.exe.config
+C:\Users\joshu\OneDrive\Documents\GitHub\c-sharp-notes\basics-1\basics-1\bin\Debug\basics-1.exe
+C:\Users\joshu\OneDrive\Documents\GitHub\c-sharp-notes\basics-1\basics-1\bin\Debug\basics-1.pdb
+C:\Users\joshu\OneDrive\Documents\GitHub\c-sharp-notes\basics-1\basics-1\obj\Debug\basics-1.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\GitHub\c-sharp-notes\basics-1\basics-1\obj\Debug\basics-1.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\GitHub\c-sharp-notes\basics-1\basics-1\obj\Debug\basics-1.exe
+C:\Users\joshu\OneDrive\Documents\GitHub\c-sharp-notes\basics-1\basics-1\obj\Debug\basics-1.pdb
